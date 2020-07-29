@@ -14,6 +14,8 @@ def author_can_message(roles: List[Role]) -> bool:
     return False
 
 
+# aa
+
 @client.event
 async def on_ready():
     print("MiceBot is ready to receive commands. 🧀")
